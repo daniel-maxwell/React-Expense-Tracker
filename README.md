@@ -2,7 +2,7 @@
 
 
 
-Check out the app <a href="https://astounding-queijadas-e6cbe7.netlify.app/" target="_blank">here.</a>
+Check out the app <a href="https://astounding-queijadas-e6cbe7.netlify.app/" target="_blank">here</a>
 
 
 
