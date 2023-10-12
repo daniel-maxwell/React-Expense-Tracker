@@ -2,7 +2,7 @@
 
 
 
-Link to the App: [Link](https://astounding-queijadas-e6cbe7.netlify.app/)
+Check out the app [here](https://astounding-queijadas-e6cbe7.netlify.app/){:target="_blank"}
 
 
 
