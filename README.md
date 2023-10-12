@@ -2,7 +2,7 @@
 
 
 
-Link to the App:
+Link to the App: [Link]([https://github.com/daniel-maxwell](https://astounding-queijadas-e6cbe7.netlify.app/))
 
 
 
@@ -10,7 +10,7 @@ Link to the App:
 This React SPA project is an Expense Tracker where you can input your Expenses manually or use a picture of your personal receipts to prefill the form, the App will recognize your receipt and make you add a category so you can then save it. It was made with React, and the Axios library which helps to connect with an API for receipt recognition, and the use of localStorage in the browser.
 
 
-
+![image](https://github.com/daniel-maxwell/React-Expense-Tracker/assets/66431847/dada6e00-d5e2-448f-a1ae-96f57938ed4c)
 
 
 
@@ -18,7 +18,7 @@ Here's a small diagram of the App components:
 
 
 
-<!--<img width="560" style="center" alt="Screen Shot 2023-01-11 at 1 06 10 PM" src="https://user-images.githubusercontent.com/11094871/214355090-ee4e75be-f220-43e0-890e-c534f0f8c127.jpeg"><!-->
+<img width="560" style="center" alt="Screen Shot 2023-01-11 at 1 06 10 PM" src="https://github.com/daniel-maxwell/React-Expense-Tracker/assets/66431847/cffa313c-8897-4c84-9af0-4b3afca242e5">
 
 
 ### Tech Used
