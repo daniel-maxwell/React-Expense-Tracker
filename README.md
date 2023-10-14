@@ -7,8 +7,8 @@ Check out the app <a href="https://astounding-queijadas-e6cbe7.netlify.app/" tar
 
 
 
-## Summary
-This React SPA project is an Expense Tracker where you can input your Expenses manually or use a picture of your personal receipts to prefill the form, the App will recognize your receipt and make you add a category so you can then save it. It was made with React, and the Axios library which helps to connect with an API for receipt recognition, and the use of localStorage in the browser.
+## Summary1
+This React SPA project is an Expense Tracker. Users can upload entries manually, or an image of receipts which will attempt to prefill the form using text-in-image recognition techniques. It was made with React, and the Axios library and localStorage API for persistence.
 
 
 
@@ -16,7 +16,7 @@ This React SPA project is an Expense Tracker where you can input your Expenses m
 
 
 
-Here's a small diagram of the App components:
+Here's a diagram of the App components:
 
 
 
